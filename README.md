@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+🌊Tuan+Le👨🏻‍💻....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+🌊Tuan+Le👨🏻‍💻....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -15,14 +15,10 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Tuan Le, High School student & Cyber Security newbie & I love coding
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
-  <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🔬 I'm currently studying for about Cyber Security
   <br>
   💻 I love writing code and learn anythings about it
   <br>
